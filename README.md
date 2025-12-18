@@ -1,35 +1,34 @@
-Password Generator (Python)
+# Password Generator (Python)
 
-This is a simple password generator written in Python.  
-It lets the user create strong passwords by choosing the length and the type of characters to include.
+This is a simple password generator built using Python.  
+It allows users to generate strong passwords based on the length and the types of characters they want to include.
 
-I built this project to practice Python basics like functions, conditionals, loops, and working with built-in libraries.
+The project was created to practice Python basics such as functions, conditionals, loops, and using standard libraries.
 
+---
 
-
-
-What it does
-- Generates a password of any length
-- Lets the user choose whether to include:
+## Features
+- User-defined password length
+- Option to include:
   - Uppercase letters
   - Lowercase letters
   - Numbers
   - Special characters
-- Makes sure at least one character from each selected type is included
+- Ensures at least one character from each selected type
+- Input validation to avoid invalid passwords
 
+---
 
-
-
-Technologies used
+## Technologies Used
 - Python 3
 - Built-in Python modules (`random`, `string`)
 
+---
 
-
-How to run the program
-1. Download or clone the repository.
-2. Open a terminal inside the project folder.
-3. Run the following command:
+## How to Run
+1. Clone the repository or download the files.
+2. Open the project folder in VS Code or any code editor.
+3. Run the script:
 
 ```bash
 python password_generator.py
