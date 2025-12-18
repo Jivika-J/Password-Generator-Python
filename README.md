@@ -7,6 +7,7 @@ The project was created to practice Python basics such as functions, conditional
 
 ---
 
+
 ## Features
 - User-defined password length
 - Option to include:
